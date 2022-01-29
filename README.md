@@ -15,16 +15,17 @@ in general i really like embedded system design and development, tinkering and h
 as far as hobbies go, i love reading, especially classic fiction; longboarding, though i haven't gotten the hang of sliding yet; climbing, mostly indoors; and some miscellaneous other stuff you should ask me about sometime. i usually don't talk too much, but if it's a topic i'm into i could go on for, well, maybe not hours, but like, more than one? i also volunteer with my church throughout the week as a youth minister. i like apologetics and philosophy too. ask me about that too.
 
 
-i have no linked-in or twitter. also no website yet. sorry. 
+i have ~~no linked-in~~ or twitter. also no website yet. sorry. 
 
 ## links
 
 - [github](https://github.com/r-tsang) from berkeley undergrad days
 - [github](https://github.com/rchtsang) for davis-related projects, research and coursework. rather empty at the moment (some repos need to stay private atm sorry)
-- [github](https://github.com/rctsang) is the account hosting this repo
+- [github](https://github.com/rctsang) for personal projects (also hosts this repo)
+- my linkedin is rather bare at the moment and doesn't really warrant sharing, but [here it is](https://www.linkedin.com/in/ryan-t-015314225/) nonetheless
 
 ### note
 
 so evidently, i have yet to create a website. in the meantime, all the resume/professional networking-related stuff that i think should eventually belong on the yet-to-exist aforementioned website has been relegated to this git repo. 
 
-this readme has most of what i would put on a website anyways. and i'll add things to this repo when i find time to do that. or when i want to update my resume at 1am like i'm doing right now. 
+this readme has most of what i would put on a website anyways. and i'll add things to this repo when i find time to do that. ~~or when i want to update my resume at 1am like i'm doing right now.~~ somehow i'm managing to update it at a reasonable hour. go figure.
