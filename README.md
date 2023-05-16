@@ -22,7 +22,7 @@ i have ~~no linked-in~~ or twitter. also no website yet. sorry.
 - [github](https://github.com/r-tsang) from berkeley undergrad days
 - [github](https://github.com/rchtsang) for davis-related projects, research and coursework. rather empty at the moment (some repos need to stay private atm sorry)
 - [github](https://github.com/rctsang) for personal projects (also hosts this repo)
-- my linkedin is rather bare at the moment and doesn't really warrant sharing, but [here it is](https://www.linkedin.com/in/ryan-t-015314225/) nonetheless
+- my linkedin is rather bare at the moment and doesn't really warrant sharing, but [here it is](https://www.linkedin.com/in/r-tsang/) nonetheless
 
 ### note
 
